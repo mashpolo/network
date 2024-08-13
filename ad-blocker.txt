@@ -8051,6 +8051,15 @@ payload:
   - DOMAIN-SUFFIX,goblin.hupu.com
   - DOMAIN-SUFFIX,adx.hupu.com
   - DOMAIN-SUFFIX,adx-api.hupu.com
+  - DOMAIN-SUFFIX,hermes-server.hupu.com
+  - DOMAIN-SUFFIX,e-goblin.hupu.com
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,vod-license-m.volccdn.com
+  - DOMAIN-SUFFIX,open.toutiao.com
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,adxserver.ad.cmvideo.cn
   - DOMAIN-SUFFIX,app-ad.variflight.com
   - DOMAIN-SUFFIX,applog.mobike.com
